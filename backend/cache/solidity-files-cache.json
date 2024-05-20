@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\raviteja\\Playground\\Projects\\Blockchain-summerInternship\\my-dapp\\backend\\contracts\\IdentityManagement.sol": {
+      "lastModificationDate": 1716130286404,
+      "contentHash": "321ef5fd9f65ce59a11f4c0d74381dc6",
+      "sourceName": "contracts/IdentityManagement.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "IdentityManager"
+      ]
+    },
+    "D:\\raviteja\\Playground\\Projects\\Blockchain-summerInternship\\my-dapp\\backend\\contracts\\Lock.sol": {
+      "lastModificationDate": 1716130298347,
+      "contentHash": "c2b0fa23bc80a08849697701b16df65c",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
